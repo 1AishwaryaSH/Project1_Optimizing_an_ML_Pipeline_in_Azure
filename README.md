@@ -7,7 +7,8 @@ To build the pipeline we use Python SDK and a Scikit-learn model.
 
 ## Project Summary
 The best run model is the AutoML model "VotingEnsemble" with an Id: AutoML_10a12021-419a-46bc-9736-103ece2219b6_18 and Accuracy:0.9173899034676254.
-It performs better than the logistic regression(Scikit-learn) model using HyperDrive optimized hyperparameters.
+It performs better than the logistic regression(Scikit-learn) model using HyperDrive optimized hyperparameters. 
+Here we can find that AutoML generates efficient and accurate model.
 
 ## Architecture
 The project architecture involves the following major steps:
