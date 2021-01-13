@@ -43,7 +43,7 @@ The two Hyperparameters used are the 'C' or inverse regularization parameter and
 
 ## Policy
 BanditPolicy with an evaluation interval of 2 and slack factor of 10% is used to avoid the wastage of resources. Once the parameter values are reached it terminates the process.
-![hyperdrive](az1.jpg) 
+![hyperdrive](az1.JPG) 
 
 ## AutoML
 The AutoML model 'Voting Ensemble' gave an accuracy of 91.74%.
